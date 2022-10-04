@@ -1,0 +1,14 @@
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 1;
+    background-color: black;
+    color: white;
+}
+
+.columnActive {
+    flex: 1;
+    background-color: yellow;
+}
